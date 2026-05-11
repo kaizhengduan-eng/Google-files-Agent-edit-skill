@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Sheets Setup"
+  short_description: "Set up and operate Google Sheets safely"
+  default_prompt: "Use $google-sheets-setup to set up service-account access to a Google Sheet and verify read/write access."
