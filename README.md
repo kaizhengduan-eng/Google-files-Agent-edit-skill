@@ -1,4 +1,4 @@
-﻿# Google Sheets Setup
+# Google-Sheet-Agent-edit-skill
 
 A Codex skill for securely setting up and operating Google Sheets through Google Cloud service accounts.
 
