@@ -1,0 +1,14 @@
+# Local secrets and environment files
+.env
+.env.*
+*.key
+*.pem
+*service-account*.json
+*credentials*.json
+*token*.json
+
+# Local caches and generated files
+node_modules/
+.DS_Store
+Thumbs.db
+*.log

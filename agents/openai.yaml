@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Workspace Service Account"
+  short_description: "Set up Sheets, Docs, and Slides safely"
+  default_prompt: "Use $google-workspace-service-account to set up service-account access to Google Sheets, Docs, or Slides and verify read/write access."
